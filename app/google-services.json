@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "39021308165",
+    "project_id": "firestorelivedata-93973",
+    "storage_bucket": "firestorelivedata-93973.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39021308165:android:42a55b370bb2acaaed2f6c",
+        "android_client_info": {
+          "package_name": "com.sophia.firestore_mvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39021308165-9qhajsmkl8t8519fq1e1tnb4ad8h2fke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVUWaiThpd0Yp_YPfjptluV79VYs9wdsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39021308165-9qhajsmkl8t8519fq1e1tnb4ad8h2fke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
